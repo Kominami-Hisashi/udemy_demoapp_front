@@ -42,6 +42,10 @@ export default {
     '@nuxtjs/i18n'
   ],
 
+  publicRuntimeConfig: {
+    appName: process.env.APP_NAME
+  },
+
   axios:{
   },
 
