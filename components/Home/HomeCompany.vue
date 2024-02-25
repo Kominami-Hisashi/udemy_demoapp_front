@@ -55,7 +55,7 @@
       </v-col>
     </v-row>
     <v-card-title class="font-weight-bold justify-center">
-      会社情報aaa
+      会社情報
     </v-card-title>
     <v-row justify="center">
       <v-col
