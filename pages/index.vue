@@ -74,11 +74,11 @@
 </template>
 
 <script>
-import HomeAbout from '~/components/home/HomeAbout'
-import HomeProducts from '~/components/home/HomeProducts'
-import HomePrice from '~/components/home/HomePrice'
-import HomeContact from '~/components/home/HomeContact'
-import HomeCompany from '~/components/home/HomeCompany'
+import HomeAbout from '~/components/Home/HomeAbout'
+import HomeProducts from '~/components/Home/HomeProducts'
+import HomePrice from '~/components/Home/HomePrice'
+import HomeContact from '~/components/Home/HomeContact'
+import HomeCompany from '~/components/Home/HomeCompany'
 import AppFooter from '../components/App/AppFooter.vue'
 
 export default {
